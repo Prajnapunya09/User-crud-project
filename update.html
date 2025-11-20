@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+     <!-- menu -->
+      <nav class="navbar">
+            <div class="container">
+                <a href="index.html" class="logo">CRUD-Project</a>
+                <div class="menu">
+                    <a href="index.html" class="link">Home</a>
+                    <a href="create.html" class="link">Create User</a>
+                </div>
+            </div>
+      </nav>
+
+      <section class="container">
+            <div class="title">
+                <h1>Update User</h1>
+            </div>
+             <section class="row">
+                <div class="card">
+                    <div class="card-body">
+                        <form method="post" autocomplete="off" id="userForm">
+                            <div class="form-item">
+                                <label for="name">Your name</label>
+                                <input type="text" name="name" id="name" class="form-control">
+                                <strong id="nameErr"></strong>
+                            </div>
+                            <div class="form-item">
+                                <label for="email">Your Email</label>
+                                <input type="text" name="email" id="email" class="form-control">
+                                <strong id="emailErr"></strong>
+                            </div>
+                            <div class="form-item">
+                                <label for="mobile">Your Mobile</label>
+                                <input type="text" name="mobile" id="mobile" class="form-control">
+                                <strong id="mobileErr"></strong>
+                            </div>
+                            <div class="form-item">
+                                <button class="btn success">Update User</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
+      </section>
+
+    <script src="./js/update.js"></script>
+</body>
+</html>
