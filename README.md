@@ -17,4 +17,4 @@ A simple front-end only CRUD (Create, Read, Update, Delete) application for mana
 ## 🛠️ Technologies  
 -  🌐 HTML5  
 -  🎨 CSS3  
-- ⚙️ JavaScript  
+-  ⚙️ JavaScript  
