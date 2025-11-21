@@ -15,6 +15,6 @@ A simple front-end only CRUD (Create, Read, Update, Delete) application for mana
 - 📁 Modular JavaScript  
 
 ## 🛠️ Technologies  
-- 🌐 HTML5  
+-  🌐 HTML5  
 - 🎨 CSS3  
 - ⚙️ JavaScript  
