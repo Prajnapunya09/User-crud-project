@@ -6,7 +6,7 @@ A simple front-end only CRUD (Create, Read, Update, Delete) application for mana
 - 📄 List existing users  
 - ✏️ Update user details  
 
-## ⭐ Features  
+## ⭐  Features  
 - ➕ Add a new user  
 - 📋 View a list of users  
 - ✏️ Update user details  
