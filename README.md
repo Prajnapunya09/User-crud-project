@@ -1,7 +1,7 @@
 # 🚀  User-CRUD-Project  
 A simple front-end only CRUD (Create, Read, Update, Delete) application for managing user data.
 
-## 📌 Overview  
+## 📌  Overview  
 - ➕ Create a new user  
 - 📄 List existing users  
 - ✏️ Update user details  
